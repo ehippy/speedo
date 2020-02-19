@@ -11,10 +11,6 @@ setInterval(()=>{
     .then(data => console.log(data))
     .catch(error => console.error(error));
     
-    si.gpuTemperature()
-    .then(data => console.log(data))
-    .catch(error => console.error(error));
-    
 }, 1000)
 
 
