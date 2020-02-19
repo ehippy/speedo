@@ -1,0 +1,23 @@
+{
+  "name": "speedo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehippy/speedo.git"
+  },
+  "author": "fj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehippy/speedo/issues"
+  },
+  "homepage": "https://github.com/ehippy/speedo#readme",
+  "dependencies": {
+    "osx-temperature-sensor": "^1.0.5",
+    "systeminformation": "^4.22.1"
+  }
+}
