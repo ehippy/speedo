@@ -18,6 +18,6 @@
   "homepage": "https://github.com/ehippy/speedo#readme",
   "dependencies": {
     "osx-temperature-sensor": "^1.0.5",
-    "systeminformation": "^4.22.1"
+    "systeminformation": "^5.3.1"
   }
 }
